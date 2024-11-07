@@ -1,0 +1,21 @@
+Proyecto en su estado inicial
+F:\BOOTCAMP\DEVPROJECTS\PROYECTO_VEHICULOS_DJANGO\PROYECTO_VEHICULOS_DJANGO
+|   .gitignore
+|   db.sqlite3
+|   manage.py
+|   README.md
+|   tree.txt
+|   
+\---config
+    |   asgi.py
+    |   settings.py
+    |   urls.py
+    |   wsgi.py
+    |   __init__.py
+    |   
+    \---__pycache__
+            settings.cpython-313.pyc
+            urls.cpython-313.pyc
+            wsgi.cpython-313.pyc
+            __init__.cpython-313.pyc
+            
